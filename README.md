@@ -1,24 +1,25 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+
+<b>Discipline | <b>Chemical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Chemical Engineering Fluid Mechanics Lab
+<b> Experiment|     <b> To find out the pressure drop when a fluid is flowing through a packed bed 
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Fill here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Neha Sharma 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Meerut Institute of Engineering and Technology, Meerut
+<b> Email id|     <b>  	nsharma.iitr@gmail.com
+<b> Department |  	Chemical Engineering 
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Satyam Sangwan |Student | CSE(AI/ML)| Meerut Institute of Engineering and Technology, Meerut |sangwanmadhu2003@gmail.com
+
