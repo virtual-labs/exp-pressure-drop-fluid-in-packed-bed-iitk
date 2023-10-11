@@ -1,0 +1,117 @@
+
+      #struct {
+        position: relative;
+        height: 550px;
+        width: 800px;
+        border: 2px black solid;
+        
+      }
+      .baseimg{
+        position: relative;
+       
+        height: 530px;
+      }
+     
+      .offlight{
+        width:40px;
+        height:38px;
+        position: absolute;
+        top:64%;
+        left:75px;
+      }
+      #on{
+        position: absolute;
+        top:40%;
+        left:70px;
+      }
+     
+     #led{
+      visibility: visible;
+     }
+      #blink{
+        width: 40px;
+    height: 36px;
+    position: absolute;
+    top: 64%;
+    left: 74px;
+        
+      }
+      #value{
+        position: absolute;
+       right:60;
+      font-weight: bold;
+   
+       top: 100;
+      }
+      #value2{
+        position: absolute;
+        right:60;
+      font-weight: bold;
+   
+       top: 120;
+      }
+      .container {
+        display: flex;
+        flex-direction: row;
+      }
+      .valve {
+        height: 30px;
+        width: 30px;
+        position: absolute;
+        top:73%;
+        right:60%;
+        border: none;
+        
+       
+      }
+    
+
+#table {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#table h3{
+  margin-left:10%;
+}
+td,
+th {
+  border: 1px solid #0a0a0a;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #c6fff3;
+}
+#table h2 {
+  text-align: center;
+  color: #0a0a0a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tab-button {
+  margin-top: 2rem;
+  background-color: cadetblue;
+  border: none;
+  color: darkmagenta;
+  width: 8rem;
+  height: 3rem;
+  border: 1px solid black;
+}
+.tab-button:hover {
+  background: cornflowerblue;
+  color: black;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+   
+#video {
+  max-width: 100%;
+  position: relative;
+  top: 75px;
+  height: 550px;
+}

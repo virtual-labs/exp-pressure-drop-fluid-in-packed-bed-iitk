@@ -1,1 +1,3 @@
-### Link your theory in here
+Packed bed provides a large surface area of contact between two fluids and is thus extensively used in distillation extraction absorption etc. As the fluid passes through the bed. it does so through the voids present in the bed the voids from continuous channels through out the bed .the flow may be laminar through some channels and turbulent in other channels.
+
+Fluids are forced to flow through stationary beds of particulate or porous solids in a wide range of particle situations including moisture assimilation by soils, adsorption, ion exchange, and many of the examples noted in the introductory section.
