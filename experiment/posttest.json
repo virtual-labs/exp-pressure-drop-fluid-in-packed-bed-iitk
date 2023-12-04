@@ -2,38 +2,115 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question":"1. What is the pressure drop per unit length for the given parameters for a laminar packed bed setup? Density = 990 Kg/m3 Superficial velocity = 10m/s DP = 3mm Porosity = 0.14 Viscosity = 2.5×10-5kg/ms",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "-15.625Pa/m",
+        "b": "-15.625KPa/m",
+        "c": "-1.875Pa/m",
+        "d": "-1.875KPa/m"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+    
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. If we have a tube of diameter 30mm and particles of diameter 2mm, the length of the tube is 10cm and the number of pellets is 100. Then what is the porosity?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "0.45",
+        "b": "0.95",
+        "c": "0.99",
+        "d": "0.65"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "3. If we have a tube of diameter 30mm and particles of diameter 3mm, the length of the tube is 10cm and the number of pellets is 100. The flow rate is 5cm3/s, then what is the superficial velocity?",
+      "answers":{
+        "a": "0.5 cm/s",
+        "b":"0.45 cm/s",
+        "c":"0.7 cm/s",
+        "d":"0.8 cm/s"
+      },
+      "correctAnswer":"c",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"4. What is the relation between superficial velocity and average fluid velocity in a packed bed? Where ϑ is the porosity of the bed, φ is the superficial velocity and u is the average velocity",
+      "answers":{
+        "a":"ϑ=φu",
+        "b":"ϑ=u/φ",
+        "c":"ϑ=φ0.14u",
+        "d":"ϑ=φϑ/uu"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"5. In the Formula for porosity, what is the meaning of the term V? ∅ = V/VT",
+      "answers":{
+        "a":"Voumne of Void",
+        "b":"Volume of Pure Solid",
+        "c":"Total Volume",
+        "d":"Volume of the tube material"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"6. Which one of the following is the correct expression for Friction Factor in Packed Bed Columns?",
+      "answers":{
+        "a":"f = 150/Re",
+        "b":"f = 150/Re+1.75",
+        "c":"f = 180/Re+1.5",
+        "d":"f = 100/Re+0.0035"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"7. Calculate the pressure drop in the following setup. Density = 990 Kg/m3 Superficial velocity = 10m/s DP = 3mm Porosity = 0.14 Viscosity = 2.5×10-5 kg/ms Column length = 1m",
+      "answers":{
+        "a":"7 Pa",
+        "b":"724x10^6 Pa",
+        "c":"7x10^6 Pa",
+        "d":"72 atm"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"8. A fully packed bed with small particle size has _________ pressure drop than a bed with larger particle size",
+      "answers":{
+        "a":"More",
+        "b":"Less",
+        "c":"Same",
+        "d":"Negligible"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"9. What is the term Ɵ in the Kozeny Carman equation for laminar flow in packed beds? ΔP/L=(−180μ)/(S2D2P) x((1−∈)2/∈3)ϑS",
+      "answers":{
+        "a":"Surface Area of pellets",
+        "b":"Sphericity of Pellets",
+        "c":"Void fraction",
+        "d":"Density"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"10. Which one of the following is correct expression for sphericity of a particle? Note: Vp = Volume of particle, Ap = Surface areas of the Particle.",
+      "answers":{
+        "a":"S = (6Vp)/Ap",
+        "b":"S = (π1/3(6Vp)2/3)/Ap",
+        "c":"S = (π1/3(6Vp)4/3)/Ap",
+        "d":"S = (6Vp)2/3/Ap"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
     }
   ]
 }
