@@ -2,13 +2,13 @@
       #struct {
         position: relative;
         height: 550px;
-        width: 800px;
+        width: 860px;
         border: 2px black solid;
         
       }
       .baseimg{
         position: relative;
-       
+       top: 12px;
         height: 530px;
       }
      
@@ -58,8 +58,8 @@
         height: 30px;
         width: 30px;
         position: absolute;
-        top:73%;
-        right:60%;
+        left: 220px;
+        bottom: 108px;
         border: none;
         
        
@@ -112,6 +112,6 @@ tr:nth-child(even) {
 #video {
   max-width: 100%;
   position: relative;
-  top: 75px;
+  top: 14px;
   height: 550px;
 }
