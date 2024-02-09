@@ -1,0 +1,1 @@
+To calculate the pressure drop per unit length of bed. To plot modified friction factor vs. modified Reynolds no. on a log-log plot.
