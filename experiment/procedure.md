@@ -11,7 +11,7 @@ Friction factor for packed bed. (Experimental) <br>
 
 <img src = "images/img_4.png"><br>
 
-Where porosity, 𝜀 = Volume of voids /Volume of bed Volume of voids =approximately 2.5 liters or 2.5 x 10<sub>-3</sub>m<sub>3</sub> Volume of bed = Cross sectional Area of column (A) × Length of Bed<br>
+Where porosity, 𝜀 = Volume of voids /Volume of bed Volume of voids =approximately 2.5 liters or 2.5 x 10<sup>-3</sup>m<sup>3</sup> Volume of bed = Cross sectional Area of column (A) × Length of Bed<br>
 
 <b>Procedure : </b><br>
 1.	The motor is started and water is pumped into the arrangement. The bypass may be used for better control of flow.<br>
