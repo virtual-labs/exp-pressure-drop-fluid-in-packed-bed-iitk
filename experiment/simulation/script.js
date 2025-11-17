@@ -79,18 +79,18 @@ function toggle() {
 
 // Inlet valve function
 function inValue() {
-    if (left < 50 && count === 2) {
+    if (left < 50 ) {
         iin += 45;
         left += 25;
         right -= 25;
-        packedwater += 150;
+        packedwater = 450;
         updateDisplay();
     }
 }
 
 // Outlet valve function
 function outValue() {
-    if (discard < 260 && count === 6) {
+    if (discard < 260) {
         out += 45;
         
         setTimeout(() => {
@@ -109,13 +109,13 @@ function outValue() {
 
 // Bypass valve function
 function bypass() {
-    if (tankk > 150 && count === 1) {
+    if (tankk > 150  ) {
         tankk -= 50;
     }
-    if (heightt<195){
-  heightt += 55;
+    if (heightt<235){
+  heightt += 235;
     }
-    if (ball > -200 && count === 1) {
+    if (ball > -200 ) {
         ball -= 20;
       
         angle += 20;
