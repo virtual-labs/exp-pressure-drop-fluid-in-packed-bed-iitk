@@ -1,6 +1,5 @@
-Batchelor G.K (2000), An Introduction to Fluid Dynamics, Cambridge University Press.
-R.J. Goldstein (Editor), Fluid Mechanics Measurements, Hemisphere Publishing Corporation, New York.
-1983; second edition, 1996.
-M. Van Dyke, An Album of Fluid Motion, The Parabolic Press, California, 1982.
-D.C. Montgomery, Design and Analysis of Experiments, John Wiley, New York, 2001.
-Streeter, Victor Lyle (1996), Fluid Mechanics. New York: McGraw-Hill.
+1.	McCabe W., Smith, J. and Harriot P., “Unit Operations of Chemical Engineering”, 7th Edn. McGraw Hill, 2005. <br>
+2.	Gupta, Vijay and Gupta, S.K. “Fluid Mechanics and its Applications”, Wiley Eastern, New Delhi 1984. <br>
+3.	Fox, R.W., Pritchard, P.J. and McDonald, A.T., “Introduction to Fluid Mechanics”, 7 th Edition, Wiley-India 2010. <br>
+4.	Coulson & Richardson, Chemical Engineering Vol. I: McGraw Hill. 1979 <br>
+5.	Bansal, R.K., “Fluid Mechanics and Hydraulic Machines”, Laxmi Publications (P) Ltd., New Delhi 2005 
