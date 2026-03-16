@@ -1,0 +1,59 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The sphericity of a spherical particle is",
+      "answers": {
+        "a": "0",
+        "b": "0.5",
+        "c": "1",
+        "d": "2"
+      },
+    
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Superficial velocity is the?",
+      "answers": {
+        "a": "velocity through the voids in packed bed",
+        "b": "empty tower velocity in packed bed",
+        "c": "velocity above the minimum fluidization velocity",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In the packed bed, at relatively low flow rates pressure drop is approximately proportional to gas velocity, true or false?",
+      "answers":{
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer":"a",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"4. For a packed bed, as the superficial velocity of the fluid increases, the pressure drop:",
+      "answers":{
+        "a":"Decreases",
+        "b":"Increases",
+        "c":"Constant",
+        "d":"Increase then decrease"
+      },
+      "correctAnswer":"b",
+      "difficulty":"beginner"
+    },
+    {
+      "question":"5. Which of the following factors does not significantly affect pressure drop in a packed bed?",
+      "answers":{
+        "a":"Superficial velocity",
+        "b":"Fluid density",
+        "c":"Bed Height",
+        "d":"Particle shape and size"
+      },
+      "correctAnswer":"c",
+      "difficulty":"beginner"
+    }
+  ]
+}
