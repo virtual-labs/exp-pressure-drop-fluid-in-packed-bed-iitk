@@ -17,17 +17,18 @@ let isOn = false;
 const instructions = [
     "click on the motor button to switch the motor on",
     "click the bypass value to better control the flow of water",
-    "the rate of flow in the tower can be controlled by a valve in the inlet pipe",
-    "The inlet valve is maintained in such a way that level of water in manometric tubes are equal",
+    "the rate of flow in the tower can be controlled by a valve in the bypass  pipe",
+    // "The inlet valve is maintained in such a way that level of water in manometric tubes are equal",
+    "the inlet valve is opened ",
     "The water is allowed to flow through the packing in the tower. All the air pockets in the tower and in the manometer are removed",
-    "The distance between the pressure taps is noted as height of the tower(L).",
+    // "The distance between the pressure taps is noted as height of the tower(L).",
     "The outlet valve is opened",
-    "Time taken to collect the water is noted.",
+    // "Time taken to collect the water is noted.",
     "The flow rate is calculated from the volume of water collected or rotameter connected to setup"
     ,"observation table "
 ];
 
-
+  
 
 
 
@@ -46,7 +47,7 @@ function previous() {
 }
 
 function next() {
-    if (count !== 9) {
+    if (count !== 7) {
         count++;
         updateInstruction();
     }
@@ -56,7 +57,7 @@ function updateInstruction() {
     const instructionElement = document.getElementById('instruction-content');
     if (instructionElement) {
         instructionElement.textContent = instructions[count];
-        if (count >8){
+        if (count >6){
    const container201= document.getElementById('container201');
     container201.style.display='none';
  const image201= document.getElementById('image201');
